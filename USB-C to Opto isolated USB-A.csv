@@ -1,0 +1,14 @@
+,,,,,,,,
+,,,USB-A Optoisolated BOM,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Item #,*Designator,*Qty,Manufacturer,*Mfg Part #,Description / Value,*Package/Footprint ,Type,Your Instructions / Notes
+1,J1,1,Molex,48258-0001,USB_A,MOLEX_48258-0001,THT,
+2,U1,1,Analog Devices,ADUM4160,ADUM4160,SOIC-16W_7.5x10.3mm_P1.27mm,SMD,
+3,IC1,1,Analog Devices,ADUM5000ARWZ,ADUM5000ARWZ,SOIC127P1032X265-16N,SMD,
+4,"C1,C9",2,Murata Electronics,GRM155R61A106ME44D ,10uF,C_0402_1005Metric,SMD,
+5,"C2,C3,C4,C5,C6,C7,C8,C10",8,Murata Electronics,GRM155R71E104KE14D ,0.1uF,C_0402_1005Metric,SMD,
+6,"R1,R2,R3,R4",4,YAGEO,RC0402FR-0724RL ,24R,R_0402_1005Metric,SMD,
+7,R6,1,YAGEO,RC0402JR-075K1L ,5.1K,R_0402_1005Metric,SMD,
+8,P1,1,Molex,105444-0001,USB_C_Plug_USB2.0,USB_C_Plug_Molex_105444,SMD,Please solder either side.
